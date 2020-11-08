@@ -2,7 +2,7 @@
   "name": "cards-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Yosra1993.github.io/cards-game",
+  "homepage": "https://yosra1993.github.io/cards-game",
   "dependencies": {
     "@ant-design/icons": "^4.2.2",
     "@testing-library/jest-dom": "^4.2.4",
